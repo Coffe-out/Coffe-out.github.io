@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6bef9593.css",
+    "main.js": "/static/js/main.edc56928.js",
+    "static/js/787.610a39dc.chunk.js": "/static/js/787.610a39dc.chunk.js",
+    "static/media/best-bg.jpg": "/static/media/best-bg.e73347dac8273b8cda2a.jpg",
+    "static/media/main-bg.jpg": "/static/media/main-bg.bccd9c9f5aecec766f7f.jpg",
+    "static/media/coffe_bg.jpg": "/static/media/coffe_bg.3602fdfebe6d51af1e5d.jpg",
+    "static/media/pleasure-bg.jpg": "/static/media/pleasure-bg.ef2455d9e03f41d5a1fb.jpg",
+    "static/media/card.png": "/static/media/card.96cedf63e88c7cea2ebb.png",
+    "static/media/beans_gerl.jpg": "/static/media/beans_gerl.af0446d446a05b991438.jpg",
+    "static/media/Best-3.png": "/static/media/Best-3.4c831881bdeb0e226910.png",
+    "static/media/Best-1.png": "/static/media/Best-1.04652e2dc0d5fe1e2c12.png",
+    "static/media/Best-2.png": "/static/media/Best-2.204060d0bc63cb9ef032.png",
+    "static/media/coffe-smoke.jpg": "/static/media/coffe-smoke.75bdf77b5d9a601887b2.jpg",
+    "static/media/coffee-beans.svg": "/static/media/coffee-beans.e290d25d0bba1bb14b5d.svg",
+    "static/media/coffeBlack.svg": "/static/media/coffeBlack.b477451cb937903728fd.svg",
+    "static/media/cofe.svg": "/static/media/cofe.c24e2de6d80bbab70c88fbb081e0baa3.svg",
+    "static/media/coffe_logo.svg": "/static/media/coffe_logo.a55c842cc94198e1bad973efb7f513dd.svg",
+    "index.html": "/index.html",
+    "main.6bef9593.css.map": "/static/css/main.6bef9593.css.map",
+    "main.edc56928.js.map": "/static/js/main.edc56928.js.map",
+    "787.610a39dc.chunk.js.map": "/static/js/787.610a39dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bef9593.css",
+    "static/js/main.edc56928.js"
+  ]
+}
